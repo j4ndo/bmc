@@ -1,4 +1,4 @@
-# peoplecount
+# BMC
 
 A Flutter project for calc BMC.
 <p align="center">
